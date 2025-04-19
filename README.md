@@ -1,6 +1,6 @@
 # Food Delivery App: Uber Eats Clone (Flutter & Firebase)
 
-This repository contains the Flutter source code for a food delivery application, inspired by Uber Eats. This project is developed while following the "Food Delivery App : Uber Eats (Flutter & Firebase) (Restaurant, User & Delivery Partner App)" course by Sanjay Kumar Das on Udemy.
+This repository contains the Flutter source code for a food delivery application, inspired by Uber Eats. This project is developed while following the "Food Delivery App : Uber Eats (Flutter & Firebase)" course by Sanjay Kumar Das on Udemy.
 
 ## Project Overview
 
