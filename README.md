@@ -42,7 +42,6 @@ To run this application on your local machine, you will need to have Flutter and
 4.  **Configure Firebase for Flutter:**
     * **Android:** Follow the instructions to add Firebase to your Android app: [https://firebase.google.com/docs/flutter/setup#android](https://firebase.google.com/docs/flutter/setup#android). This involves downloading the `google-services.json` file and placing it in the `android/app` directory.
     * **iOS:** Follow the instructions to add Firebase to your iOS app: [https://firebase.google.com/docs/flutter/setup#ios](https://firebase.google.com/docs/flutter/setup#ios). This involves downloading the `GoogleService-Info.plist` file and adding it to your Xcode project.
-    * **(Web - Optional):** If the course covered web support, follow the instructions to set up Firebase for web: [https://firebase.google.com/docs/flutter/setup#web](https://firebase.google.com/docs/flutter/setup#web).
 5.  **Enable Firebase Services:** In your Firebase project console, ensure that the following services are enabled:
     * **Authentication:** Choose your desired sign-in methods (e.g., email/password, Google Sign-in).
     * **Firestore:** Create your database. You might need to define initial data structures based on the course content.
