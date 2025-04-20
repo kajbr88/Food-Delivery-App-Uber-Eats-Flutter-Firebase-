@@ -79,5 +79,5 @@ To run this application on your local machine, you will need to have Flutter and
 * Save Data Locally on your Device
 
 ## Notes
-The course is still in progress and I am going to continue updating it.
-The author may update the course to include other functionalities to the project if not I am going to integrate chat functionality between user and restaurant and driver, stripe payment api and web admin panel and other features when i complete the course. 
+* The course is still in progress and I am going to continue updating it.
+* The author may update the course to include other functionalities to the project if not I am going to integrate chat functionality between user, restaurant and driver, stripe payment api and web admin panel and other features when i complete the course. 
